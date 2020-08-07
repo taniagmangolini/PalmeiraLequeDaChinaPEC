@@ -1,0 +1,335 @@
+Data;Palmeira;Altura Palmeira (m);Área;Quadrante;Número;Família;Gênero;Espécie;Altura (cm);Dap (mm);Coletada;Nativa;Estágio sucessional;Obs;Identificação
+29/11/2019;1;3;Copa;1;NA;NA;NA;NA;NA;NA;NA;NA;;Nenhuma planta;
+29/11/2019;1;3;Copa;2;2;Rubiaceae;Coffea ;Coffea arabica;34;3;N;N;Umbrófila;;OK
+29/11/2019;1;3;Copa;2;3;Rubiaceae;Coffea ;Coffea arabica;29;4,5;N;N;Umbrófila;;OK
+29/11/2019;1;3;Copa;2;4;Sapindaceae;Cupania;Cupania oblongifolia;58;5,4;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Copa;2;5;Sapindaceae;Cupania;Cupania oblongifolia;164;10,8;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Copa;2;6;Rubiaceae;Coffea ;Coffea arabica;23;3;N;N;Umbrófila;;OK
+29/11/2019;1;3;Copa;2;7;Sapindaceae;Cupania;Cupania oblongifolia;39;6,3;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Copa;2;9;Rubiaceae;Coffea ;Coffea arabica;85;14,2;N;N;Umbrófila;;OK
+29/11/2019;1;3;Copa;2;10;Myrtaceae;Myrciaria;Myrciaria floribunda;300;32;S;S;Secundária Tardia;;OK
+29/11/2019;1;3;Copa;3;NA;NA;NA;NA;NA;NA;NA;NA;;Nenhuma planta;
+29/11/2019;1;3;Copa;4;11;Sapindaceae;Cupania;Cupania oblongifolia;25;5,7;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;1;12;Rubiaceae;Coffea ;Coffea arabica;87;7,6;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;1;14;Monimiaceae;Mollinedia;Mollinedia schottiana;59;8;S;S;Secundária Tardia;Mollinedia 2;OK
+29/11/2019;1;3;Externo;1;15;Sapindaceae;Cupania;Cupania oblongifolia;49;4,8;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;2;16;Rubiaceae;Coffea ;Coffea arabica;38;3,4;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;17;Rubiaceae;Coffea ;Coffea arabica;72;5,3;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;18;Rubiaceae;Coffea ;Coffea arabica;36;2,6;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;19;Rubiaceae;Coffea ;Coffea arabica;116;7,8;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;20;Rubiaceae;Coffea ;Coffea arabica;32;3;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;21;Rubiaceae;Coffea ;Coffea arabica;64;6,2;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;22;Rubiaceae;Coffea ;Coffea arabica;33;2,5;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;23;Rubiaceae;Coffea ;Coffea arabica;64;3,9;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;24;Rubiaceae;Coffea ;Coffea arabica;70;4;N;N;Umbrófila;;OK
+29/11/2019;1;3;Externo;2;25;Sapindaceae;Cupania;Cupania oblongifolia;79;12,1;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;3;26;Arecaceae;Euterpe;Euterpe edulis;22;2,4;N;S;Secundária Tardia;;OK
+29/11/2019;1;3;Externo;3;27;Sapindaceae;Cupania;Cupania oblongifolia;89;8,3;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;3;28;Myrtaceae;Myrcia ;Myrcia tijucensis;20;2;S;S;Secundária Tardia;;OK
+29/11/2019;1;3;Externo;3;29;Sapindaceae;Cupania;Cupania oblongifolia;66;7,3;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;3;30;Sapindaceae;Cupania;Cupania oblongifolia;48;6,2;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;3;31;Arecaceae;Euterpe;Euterpe edulis;83;9,9;N;S;Secundária Tardia;;OK
+29/11/2019;1;3;Externo;4;32;Arecaceae;Euterpe;Euterpe edulis;137;18;N;S;Secundária Tardia;;OK
+29/11/2019;1;3;Externo;4;33;Sapindaceae;Cupania;Cupania oblongifolia;55;9,2;N;S;Secundária Inicial;;OK
+29/11/2019;1;3;Externo;4;34;Sapindaceae;Cupania;Cupania oblongifolia;47;10,2;N;S;Secundária Inicial;;OK
+5/12/2019;2;3;Copa;1;35;Rubiaceae;Coffea ;Coffea arabica;95;8,3;S;N;Umbrófila;;OK
+5/12/2019;2;3;Copa;1;36;Sapindaceae;Cupania;Cupania oblongifolia;20;4,78;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Copa;2;38;Sapindaceae;Cupania;Cupania oblongifolia;45;6;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Copa;3;40;Arecaceae;Euterpe;Euterpe edulis;149;14,7;S;S;Secundária Tardia;;OK
+5/12/2019;2;3;Copa;3;41;Sapindaceae;Cupania;Cupania oblongifolia;42;9,8;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Copa;3;42;Arecaceae;Euterpe;Euterpe edulis;141;25,3;N;S;Secundária Tardia;;OK
+5/12/2019;2;3;Copa;4;43;Sapindaceae;Cupania;Cupania oblongifolia;185;7,2;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Copa;4;44;Arecaceae;Euterpe;Euterpe edulis;59;7,4;N;S;Secundária Tardia;;OK
+5/12/2019;2;3;Copa;4;45;Sapindaceae;Cupania;Cupania oblongifolia;58;8;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;1;46;Sapindaceae;Cupania;Cupania oblongifolia;76;8,2;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;1;47;Rubiaceae;Psychotria;Psychotria suterella;77;41,3;S;S;Umbrófila;;OK
+5/12/2019;2;3;Externo;1;48;Rubiaceae;Coffea ;Coffea arabica;42;41,6;S;N;Umbrófila;;OK
+5/12/2019;2;3;Externo;2;49;Rubiaceae;Coffea ;Coffea arabica;50;4,9;N;N;Umbrófila;;OK
+5/12/2019;2;3;Externo;2;50;Rubiaceae;Coffea ;Coffea arabica;81;7,2;N;N;Umbrófila;;OK
+5/12/2019;2;3;Externo;2;51;Sapindaceae;Cupania;Cupania oblongifolia;79;9,5;N;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;2;52;Sapindaceae;Cupania;Cupania oblongifolia;32;4,1;N;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;3;53;Rubiaceae;Psychotria;Psychotria suterella;300;48,4;S;S;Umbrófila;;OK
+5/12/2019;2;3;Externo;3;54;Sapindaceae;Cupania;Cupania oblongifolia;35;5;N;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;3;55;  Nyctaginaceae;Guapira ;Guapira opposita;300;29,6;S;S;Secundária Inicial;;OK
+5/12/2019;2;3;Externo;3;56;Meliaceae;Guarea;Guarea macrophylla;300;34,9;S;S;Secundária Inicial;Estágio vide embrapa;OK
+5/12/2019;2;3;Externo;4;57;Meliaceae;Guarea;Guarea macrophylla;38;8,8;S;S;Secundária Inicial;Estágio vide embrapa;OK
+5/12/2019;2;3;Externo;4;58;Rubiaceae;Psychotria;Psychotria suterella;57;4,3;S;S;Umbrófila;;OK
+5/12/2019;2;3;Externo;4;59;Rubiaceae;Coffea ;Coffea arabica;5;10,2;N;N;Umbrófila;;OK
+5/12/2019;2;3;Externo;4;60;Arecaceae;Euterpe;Euterpe edulis;20;4,3;N;S;Secundária Tardia;;OK
+6/12/2019;3;3;Copa;1;61;Sapindaceae;Cupania;Cupania oblongifolia;20;2,6;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Copa;1;62;Rosaceae;Prunus;Prunus myrtifolia;48;2,7;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Copa;2;NA;NA;NA;NA;NA;NA;NA;N/A;;;
+6/12/2019;3;3;Copa;3;63;Arecaceae;Euterpe;Euterpe edulis;60;9,2;N;S;Secundária Tardia;;OK
+6/12/2019;3;3;Copa;3;64;Rubiaceae;Coffea ;Coffea arabica;42;5;S;N;Umbrófila;;OK
+6/12/2019;3;3;Copa;3;65;Rubiaceae;Coffea ;Coffea arabica;43;5,5;S;N;Umbrófila;;OK
+6/12/2019;3;3;Copa;3;66;Rubiaceae;Coffea ;Coffea arabica;20;4,2;S;N;Umbrófila;;OK
+6/12/2019;3;3;Copa;3;67;Rubiaceae;Coffea ;Coffea arabica;40;4,2;S;N;Umbrófila;;OK
+6/12/2019;3;3;Copa;4;68;Arecaceae;Euterpe;Euterpe edulis;28;2,5;N;S;Secundária Tardia;;OK
+6/12/2019;3;3;Copa;4;69;Arecaceae;Euterpe;Euterpe edulis;20;4,3;N;S;Secundária Tardia;;OK
+6/12/2019;3;3;Copa;4;70;Arecaceae;Euterpe;Euterpe edulis;22;3,4;N;S;Secundária Tardia;;OK
+6/12/2019;3;3;Externo;1;71;Monimiaceae;Mollinedia;Mollinedia uleana;45;5,5;S;S;Secundária Tardia;Mollinedia 1;OK
+6/12/2019;3;3;Externo;1;74;Pittosporaceae;Pittosporum ;Pittosporum undulatum;65;5,5;S;N;Não Classificada;;OK
+6/12/2019;3;3;Externo;1;75;Monimiaceae;Mollinedia;Mollinedia clavigera;50;7,2;S;S;Secundária Tardia;Mollinedia 1;OK
+6/12/2019;3;3;Externo;1;80;Meliaceae;Guarea;Guarea macrophylla;20;6,8;S;S;Secundária Inicial;Estágio vide embrapa;OK
+6/12/2019;3;3;Externo;1;81;Monimiaceae;Mollinedia;Mollinedia uleana;83;12,2;S;S;Secundária Tardia;Mollinedia 1;OK
+6/12/2019;3;3;Externo;1;82;Myrtaceae;Myrcia ;Myrcia tijucensis;79;10;S;S;Secundária Tardia;;OK
+6/12/2019;3;3;Externo;1;83;Myrtaceae;Myrcia ;Myrcia tijucensis;119;11;S;S;Secundária Tardia;;OK
+6/12/2019;3;3;Externo;1;84;Fabaceae;Machaerium;Machaerium stipitatum;27;4,2;S;S;Pioneira;;OK
+6/12/2019;3;3;Externo;1;87;Rubiaceae;Psychotria;Psychotria suterella;27;2,8;S;S;Umbrófila;;OK
+6/12/2019;3;3;Externo;2;91;Indeterminada 1;Indeterminada 1;Indeterminada 1;24;8,7;S;NA;Não Classificada;;
+6/12/2019;3;3;Externo;2;98;Solanaceae;Cestrum ;Cestrum schlechtendalii;69;7,8;S;S;Pioneira;;OK
+6/12/2019;3;3;Externo;2;100;Sapindaceae;Cupania;Cupania oblongifolia;20;2,9;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;3;101;Sapindaceae;Cupania;Cupania oblongifolia;66;5,9;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;3;102;Myrtaceae;Eugenia;Eugenia brasiliensis;42;5,7;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;3;105;Myrtaceae;Eugenia;Eugenia brasiliensis;48;6,1;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;3;107;  Nyctaginaceae;Guapira ;Guapira opposita;52;7,2;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;4;109;Monimiaceae;Mollinedia;Mollinedia uleana;46;11;S;S;Secundária Tardia;Mollinedia 1;OK
+6/12/2019;3;3;Externo;4;110;Rubiaceae;Psychotria;Psychotria suterella;98;13,2;S;S;Umbrófila;;OK
+6/12/2019;3;3;Externo;4;112;Myrtaceae;Myrcia ;Myrcia tijucensis;24;3,2;S;S;Secundária Tardia;;OK
+6/12/2019;3;3;Externo;4;113;Rubiaceae;Coffea ;Coffea arabica;47;4,25;S;N;Umbrófila;;OK
+6/12/2019;3;3;Externo;4;114;Sapindaceae;Cupania;Cupania oblongifolia;45;3,6;S;S;Secundária Inicial;;OK
+6/12/2019;3;3;Externo;4;115;Sapindaceae;Cupania;Cupania oblongifolia;147;13,6;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Copa;1;4654;Arecaceae;Euterpe;Euterpe edulis;40;7,8;N;S;Secundária Tardia;;OK
+11/12/2019;4;3;Copa;1;4655;Myrtaceae;Myrcia ;Myrcia tijucensis;22;2,7;S;S;Secundária Tardia;;OK
+11/12/2019;4;3;Copa;2;4656;Rubiaceae;Coffea ;Coffea arabica;90;7,3;N;N;Umbrófila;;OK
+11/12/2019;4;3;Copa;2;4657;Sapindaceae;Cupania;Cupania oblongifolia;105;13,6;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Copa;2;4660;Sapindaceae;Matayba;Matayba elaeagnoides;186;19,5;N;S;Secundária Tardia;;OK
+11/12/2019;4;3;Copa;3;4661;Rubiaceae;Coffea ;Coffea arabica;43;3,1;N;N;Umbrófila;;OK
+11/12/2019;4;3;Copa;3;4662;Rubiaceae;Coffea ;Coffea arabica;79;6,5;N;N;Umbrófila;;OK
+11/12/2019;4;3;Copa;3;4663;Rubiaceae;Coffea ;Coffea arabica;87;7,1;N;N;Umbrófila;;OK
+11/12/2019;4;3;Copa;3;4664;Rubiaceae;Coffea ;Coffea arabica;27;2,1;N;N;Umbrófila;;OK
+11/12/2019;4;3;Copa;3;4665;Arecaceae;Euterpe;Euterpe edulis;170;41,3;N;S;Secundária Tardia;;OK
+11/12/2019;4;3;Copa;4;4666;Sapindaceae;Cupania;Cupania oblongifolia;20;2,1;S;S;Secundária Inicial;;OK
+11/12/2019;4;3;Copa;4;4667;Myrtaceae;Myrcia ;Myrcia tijucensis;22;2,1;N;S;Secundária Tardia;;OK
+11/12/2019;4;3;Copa;4;4668;Myrtaceae;Myrcia ;Myrcia tijucensis;22;1,8;N;S;Secundária Tardia;idem 4667 (M. aff tijucensis);OK
+11/12/2019;4;3;Copa;4;4669;Rutaceae;Citrus;Citrus sp;69;6,5;N;NA;Não Classificada;;OK
+11/12/2019;4;3;Externo;1;4669A;Myrtaceae;Myrciaria;Myrciaria floribunda;79;8,7;S;S;Secundária Tardia;;OK
+11/12/2019;4;3;Externo;1;4700;Sapindaceae;Cupania;Cupania oblongifolia;55;5,7;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;1;4670;Sapindaceae;Cupania;Cupania oblongifolia;43;5,2;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;1;4671;Sapindaceae;Cupania;Cupania oblongifolia;33;3,9;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;1;4672;Sapindaceae;Cupania;Cupania oblongifolia;20;2,8;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;1;4674;Sapindaceae ;Allophylus ;Allophylus edulis;20;2,65;S;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;1;4673;Melastomataceae;Leandra;Leandra dasytricha;150;3,75;N;S;Pioneira;;OK
+11/12/2019;4;3;Externo;2;4675;Arecaceae;Archontophoenix ;Archontophoenix cunninghamiana;67;12,3;N;N;Não Classificada;;OK
+11/12/2019;4;3;Externo;2;4676;Arecaceae;Archontophoenix ;Archontophoenix cunninghamiana;102;17,9;N;N;Não Classificada;;OK
+11/12/2019;4;3;Externo;2;4677;Sapindaceae;Cupania;Cupania oblongifolia;29;3,6;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;2;4678;Sapindaceae;Cupania;Cupania oblongifolia;24;3;N;S;Secundária Inicial;;OK
+11/12/2019;4;3;Externo;2;4679;Rubiaceae;Coffea ;Coffea arabica;54;4,3;N;N;Umbrófila;;OK
+11/12/2019;4;3;Externo;2;4680;Rubiaceae;Coffea ;Coffea arabica;79;6,5;N;N;Umbrófila;;OK
+11/12/2019;4;3;Externo;2;4681;Rubiaceae;Psychotria;Psychotria suterella;37;2,7;N;S;Umbrófila;;OK
+11/12/2019;4;3;Externo;2;4682;Monimiaceae;Mollinedia;Mollinedia uleana;63;2,2;S;S;Secundária Tardia;Mollinedia 1;OK
+13/12/2019;4;3;Externo;3;4683;Rubiaceae;Psychotria;Psychotria suterella;195;49,7;N;S;Umbrófila;;OK
+13/12/2019;4;3;Externo;3;4684;Primulaceae;Myrsine ;Myrsine umbellata;35;4,5;S;S;Secundária Inicial;Myrcini (capororocas *Myrcinaceae*. Antiga rapania unbelata?);OK
+13/12/2019;4;3;Externo;3;4686;Sapindaceae;Cupania;Cupania oblongifolia;76;9,45;N;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;3;4687;Lauraceae;Nectrandra;Nectandra barbellata;67;6,6;S;S;Secundária Tardia;;OK
+13/12/2019;4;3;Externo;3;4688;Lauraceae;Nectrandra;Nectandra barbellata;600;48,5;S;S;Secundária Tardia;;OK
+13/12/2019;4;3;Externo;3;4689;Sapindaceae;Cupania;Cupania oblongifolia;350;30,9;N;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;3;4690;Boraginaceae;Cordia;Cordia sellowiana;37;4,3;S;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;3;4691;Arecaceae;Euterpe;Euterpe edulis;23;3,55;N;S;Secundária Tardia;;OK
+13/12/2019;4;3;Externo;3;4692;Myrtaceae;Myrcia ;Myrcia tijucensis;38;5,9;S;S;Secundária Tardia;;OK
+13/12/2019;4;3;Externo;4;4693;Rubiaceae;Coffea ;Coffea arabica;86;7;N;N;Umbrófila;;OK
+13/12/2019;4;3;Externo;4;4694;Indeterminada 6;Indeterminada 6;Indeterminada 6;20;3;S;NA;Não Classificada;;
+13/12/2019;4;3;Externo;4;4695;Indeterminada 6;Indeterminada 6;Indeterminada 6;35;4,8;N;NA;Não Classificada; idem 4694;
+13/12/2019;4;3;Externo;4;4696;Meliaceae;Guarea;Guarea macrophylla;25;4,3;S;S;Secundária Inicial;Estágio vide embrapa;OK
+13/12/2019;4;3;Externo;4;4697;Myrtaceae;Myrciaria;Myrciaria floribunda;32;2,3;S;S;Secundária Tardia;;OK
+13/12/2019;4;3;Externo;4;4701;Sapindaceae;Cupania;Cupania oblongifolia;35;3,5;N;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;4;4702;Sapindaceae;Cupania;Cupania oblongifolia;40;4,15;N;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;4;4703;Sapindaceae;Cupania;Cupania oblongifolia;20;3,9;N;S;Secundária Inicial;;OK
+13/12/2019;4;3;Externo;4;4704;Rubiaceae;Coffea ;Coffea arabica;37;3,2;N;N;Umbrófila;;OK
+13/12/2019;4;3;Externo;4;4705;Rubiaceae;Coffea ;Coffea arabica;54;6,3;N;N;Umbrófila;;OK
+13/12/2019;4;3;Externo;4;4706;Rubiaceae;Coffea ;Coffea arabica;23;2,6;N;N;Umbrófila;;OK
+13/12/2019;4;3;Externo;4;4707;Rubiaceae;Coffea ;Coffea arabica;42;6,1;N;N;Umbrófila;;OK
+13/12/2019;4;3;Externo;4;4708;Rubiaceae;Coffea ;Coffea arabica;60;5,5;N;N;Umbrófila;;OK
+2/1/2020;5;3;Copa;1;4709;Indeterminada 2;Indeterminada 2;Indeterminada 2;20;1,75;S;NA;Não Classificada;;
+2/1/2020;5;3;Copa;1;4710;Rubiaceae;Psychotria;Psychotria suterella;20;2,7;S;S;Umbrófila;;OK
+2/1/2020;5;3;Copa;1;4711;Indeterminada 2;Indeterminada 2;Indeterminada 2;20;2,5;N;NA;Não Classificada;idem 4709;
+2/1/2020;5;3;Copa;1;4712;Sapindaceae;Cupania;Cupania oblongifolia;180;12,67;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;1;4713;Rubiaceae;Coffea ;Coffea arabica;183;11,9;S;N;Umbrófila;;OK
+2/1/2020;5;3;Copa;2;4714;Sapindaceae;Cupania;Cupania oblongifolia;150;20,08;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;2;4715;Sapindaceae;Cupania;Cupania oblongifolia;24;3,48;S;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;3;4716;Myrtaceae;Eugenia;Eugenia supraaxillaris;26;2,5;S;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;3;4717;Sapindaceae;Cupania;Cupania oblongifolia;125;16,36;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;4;4718;Sapindaceae;Cupania;Cupania oblongifolia;110;10,13;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;4;4719;Sapindaceae;Cupania;Cupania oblongifolia;28;4,35;S;S;Secundária Inicial;;OK
+2/1/2020;5;3;Copa;4;4720;Indeterminada 5;Indeterminada 5;Indeterminada 5;35;6,1;S;NA;Não Classificada;;
+2/1/2020;5;3;Copa;4;4721;Indeterminada 2;Indeterminada 2;Indeterminada 2;20;2,13;N;NA;Não Classificada;idem 4709;
+2/1/2020;5;3;Externo;1;4722;Sapindaceae;Cupania;Cupania oblongifolia;78;6,4;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;1;4723;Arecaceae;Archontophoenix ;Archontophoenix cunninghamiana;71;4,97;N;N;Não Classificada;;OK
+2/1/2020;5;3;Externo;1;4724;Arecaceae;Euterpe;Euterpe edulis;59;8,21;N;S;Secundária Tardia;;OK
+2/1/2020;5;3;Externo;1;4725;Sapindaceae;Cupania;Cupania oblongifolia;115;16,55;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;1;4726;Sapindaceae;Cupania;Cupania oblongifolia;350;28,55;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;1;4727;Sapindaceae;Cupania;Cupania oblongifolia;33;3,3;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;2;4728;Rubiaceae;Coffea ;Coffea arabica;300;2,11;S;S;Umbrófila;;OK
+2/1/2020;5;3;Externo;2;4729;Rubiaceae;Coffea ;Coffea arabica;125;8,3;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4731;Rubiaceae;Coffea ;Coffea arabica;125;68,7;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4732;Rubiaceae;Coffea ;Coffea arabica;100;7,6;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4733;Rubiaceae;Coffea ;Coffea arabica;95;4,6;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4734;Rubiaceae;Coffea ;Coffea arabica;108;10,3;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4735;Rubiaceae;Coffea ;Coffea arabica;200;13,82;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4736;Rubiaceae;Coffea ;Coffea arabica;300;12,6;N;N;Umbrófila;Idem 4728;OK
+2/1/2020;5;3;Externo;2;4738;Sapindaceae;Cupania;Cupania oblongifolia;40;5,89;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;2;4739;Sapindaceae;Cupania;Cupania oblongifolia;30;6,45;N;S;Secundária Inicial;;OK
+2/1/2020;5;3;Externo;2;4740;Arecaceae;Euterpe;Euterpe edulis;20;3,13;N;S;Secundária Tardia;;OK
+2/1/2020;5;3;Externo;2;4741;Arecaceae;Euterpe;Euterpe edulis;20;3,15;N;S;Secundária Tardia;;OK
+2/1/2020;5;3;Externo;2;4742;Rubiaceae;Psychotria;Psychotria suterella;70;10,2;S;S;Umbrófila;;OK
+3/1/2020;5;3;Externo;3;4749;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;50;10,47;N;N;Não Classificada;;OK
+3/1/2020;5;3;Externo;3;4748A;Indeterminada 4;Indeterminada 4;Indeterminada 4;80;4,85;S;NA;Não Classificada;;
+3/1/2020;5;3;Externo;3;4744;Sapindaceae;Cupania;Cupania oblongifolia;38;3,73;N;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;3;4746;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;34;6,25;N;N;Não Classificada;;OK
+2/1/2020;5;3;Externo;3;4747;Indeterminada 2;Indeterminada 2;Indeterminada 2;21;2,13;N;NA;Não Classificada;;
+3/1/2020;5;3;Externo;3;4748;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;37;9,1;N;N;Não Classificada;;OK
+3/1/2020;5;3;Externo;3;4749;Sapindaceae;Cupania;Cupania oblongifolia;94;13,13;N;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;3;4750;Sapindaceae;Cupania;Cupania oblongifolia;165;14,45;N;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;3;4745;Sapindaceae;Cupania;Cupania oblongifolia;44;4,09;N;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;3;4751;Indeterminada 3;Indeterminada 3;Indeterminada 3;43;6,48;S;NA;Não Classificada;;
+3/1/2020;5;3;Externo;3;4755;Rubiaceae;Psychotria;Psychotria suterella;20;1,73;S;S;Umbrófila;;OK
+3/1/2020;5;3;Externo;3;4753;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;20;5,85;N;N;Não Classificada;;OK
+2/1/2020;5;3;Externo;3;4754;Indeterminada 2;Indeterminada 2;Indeterminada 2;20;1,54;N;NA;Não Classificada;idem 4747;
+2/1/2020;5;3;Externo;3;4756;Indeterminada 2;Indeterminada 2;Indeterminada 2;20;1,45;N;NA;Não Classificada;idem 4747;
+3/1/2020;5;3;Externo;4;4762;Arecaceae;Euterpe;Euterpe edulis;190;18,84;N;S;Secundária Tardia;;OK
+3/1/2020;5;3;Externo;4;4757;Arecaceae;Euterpe;Euterpe edulis;36;6,4;N;S;Secundária Tardia;;OK
+3/1/2020;5;3;Externo;4;4761;Rubiaceae;Psychotria;Psychotria suterella;107;18,13;S;S;Umbrófila;;OK
+3/1/2020;5;3;Externo;4;4758;Sapindaceae;Cupania;Cupania oblongifolia;40;2,6;S;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;4;4760;Sapindaceae;Cupania;Cupania oblongifolia;33;3,71;N;S;Secundária Inicial;;OK
+3/1/2020;5;3;Externo;4;4750A;Rubiaceae;Psychotria;Psychotria suterella;300;37,86;S;S;Umbrófila;;OK
+7/2/2020;6;6;Copa;1;4763;Sapindaceae;Cupania;Cupania oblongifolia;22;3,47;S;S;Secundária Inicial;;OK
+7/2/2020;6;6;Copa;2;NA;NA;NA;NA;NA;NA;NA;;;NA;NA
+7/2/2020;6;6;Copa;3;NA;NA;NA;NA;NA;NA;NA;;;NA;NA
+7/2/2020;6;6;Copa;4;4765;Meliaceae;Guarea;Guarea macrophylla;27;4,43;N;S;Secundária Inicial;;OK
+7/2/2020;6;6;Copa;4;4767;Sapindaceae;Cupania;Cupania oblongifolia;20;3;S;S;Secundária Inicial;;OK
+7/2/2020;6;6;Externo;1;4769;Rubiaceae;Coffea;Coffea arabica;195;24,8;N;N;Umbrófila;;OK
+7/2/2020;6;6;Externo;1;4770;Pendente;Pendente;Pendente;44;5,07;S;;;;
+7/2/2020;6;6;Externo;1;4771;Rubiaceae;Psychotria;Psychotria suterella;20;3,58;N;S;Umbrófila;;OK
+7/2/2020;6;6;Externo;1;4772;Sapindaceae;Cupania;Cupania oblongifolia;37;4,54;N;S;Secundária Inicial;;OK
+7/2/2020;6;6;Externo;1;4773;Monimiaceae ;Mollinedia;Mollinedia uleana;58;10,8;S;S;Secundária Tardia;;OK
+7/2/2020;6;6;Externo;2;4774;Sapindaceae;Allophylus ;Allophylus edulis;400;45,4;S;S;Secundária Inicial;idem 4774;OK
+7/2/2020;6;6;Externo;2;4775;Rubiaceae;Coffea;Coffea arabica;48;4,38;N;N;Umbrófila;;OK
+7/2/2020;6;6;Externo;2;4776;Solanaceae;Solanum ;Solanum sp;33;5,15;S;NA;Não Classificada;Solanum diploconos ou pinetorium;Confirmar
+7/2/2020;6;6;Externo;2;4778;Monimiaceae ;Mollinedia;Mollinedia uleana;160;20,2;S;S;Secundária Tardia;;OK
+7/2/2020;6;6;Externo;2;4779;Arecaceae;Euterpe;Euterpe edulis;34;5,92;N;S;Secundária Tardia;;OK
+7/2/2020;6;6;Externo;2;4780;Pendente;Pendente;Pendente;32;6,6;S;;;Nyctaginaceae (psionia?) ou daphinapsis;
+7/2/2020;6;6;Externo;3;4781;Moraceae;Ficus;Ficus obtusifolia;180;29,3;S;S;;luschnathiana;
+7/2/2020;6;6;Externo;3;4782;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;24;4,06;N;N;Não Classificada;;OK
+7/2/2020;6;6;Externo;3;4783;Arecaceae;Euterpe;Euterpe edulis;150;28,4;N;S;Secundária Tardia;;OK
+7/2/2020;6;6;Externo;3;4785;Arecaceae;Euterpe;Euterpe edulis;33;6,58;N;S;Secundária Tardia;;OK
+7/2/2020;6;6;Externo;4;4786;Elaeocarpaceae ;Sloanea;Sloanea guianensis;100;10,56;S;S;;;
+7/2/2020;6;6;Externo;4;4787;Sapindaceae ;Allophylus ;Allophylus edulis;26;3,3;S;S;;idem 4788;OK
+7/2/2020;6;6;Externo;4;4788;Sapindaceae ;Allophylus ;Allophylus edulis;25;2,23;S;S;;;OK
+7/2/2020;6;6;Externo;4;4789;Sapindaceae;Allophylus ;Allophylus edulis;20;2,12;S;S;Secundária Inicial;idem 4774;OK
+7/2/2020;6;6;Externo;4;4790;Sapindaceae ;Allophylus ;Allophylus edulis;22;2,04;N;S;;idem 4788;OK
+14/7/2020;7;6;Copa;1;4791;Rubiaceae;Coffea;Coffea arabica;89;5,48;N;N;Umbrófila;;
+14/7/2020;7;6;Copa;1;4792;Arecaceae;Euterpe;Euterpe edulis;23;3,09;N;S;Secundária Tardia;;
+14/7/2020;7;6;Copa;2;4793;Sapindaceae;Cupania;Cupania oblongifolia;64;7,75;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;2;4794;Sapindaceae;Cupania;Cupania oblongifolia;47;7;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;3;4795;Sapindaceae;Cupania;Cupania oblongifolia;34;4,33;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;3;4796;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;22;3,73;N;N;Não Classificada;;
+14/7/2020;7;6;Copa;4;4798;Sapindaceae;Cupania;Cupania oblongifolia;66;9,5;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;4;4799;Sapindaceae;Cupania;Cupania oblongifolia;28;3,17;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;4;4800;Sapindaceae;Cupania;Cupania oblongifolia;22;4,93;N;S;Secundária Inicial;;
+14/7/2020;7;6;Copa;4;4801;Rubiaceae;Psychotria;Psychotria suterella;250;28,5;S;S;Umbrófila;;
+14/7/2020;7;6;Externo;1;4802;Pendente;Pendente;Pendente;20;1,18;S;;;;
+14/7/2020;7;6;Externo;1;4803;Rubiaceae;Coffea;Coffea arabica;79;4,57;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4804;Rubiaceae;Coffea;Coffea arabica;64;4,18;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4805;Pendente;Pendente;Pendente;20;5;S;;;;
+14/7/2020;7;6;Externo;1;4806;Rubiaceae;Coffea;Coffea arabica;100;9,37;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4807;Rubiaceae;Coffea;Coffea arabica;175;9,91;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4808;Rubiaceae;Coffea;Coffea arabica;500;20;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4810;Rubiaceae;Coffea;Coffea arabica;35;4,24;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4811;Rubiaceae;Coffea;Coffea arabica;24;2;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;1;4812;Sapindaceae;Cupania;Cupania oblongifolia;87;10,77;N;S;Secundária Inicial;;
+14/7/2020;7;6;Externo;2;4814;Arecaceae;Euterpe;Euterpe edulis;93;10,8;N;S;Secundária Tardia;;
+14/7/2020;7;6;Externo;2;4815;Rubiaceae;Coffea;Coffea arabica;71;4,93;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;2;4816;Myrtaceae;Myrciaria;Myrciaria floribunda;20;2,53;S;S;Secundária Tardia;;
+14/7/2020;7;6;Externo;3;4818;Sapindaceae;Cupania;Cupania oblongifolia;20;2,69;N;S;Secundária Inicial;;
+14/7/2020;7;6;Externo;3;4819;Arecaceae;Euterpe;Euterpe edulis;20;3,61;N;S;Secundária Tardia;;
+14/7/2020;7;6;Externo;3;4820;Sapindaceae;Cupania;Cupania oblongifolia;30;5,91;N;S;Secundária Inicial;;
+14/7/2020;7;6;Externo;3;4821;Indeterminada 2;Indeterminada 2;Indeterminada 2;300;38,61;S;S;;idem 4788;Confirmar
+14/7/2020;7;6;Externo;3;4822;Myrtaceae;Myrciaria;Myrciaria floribunda;300;27,95;S;S;Secundária Tardia;;
+14/7/2020;7;6;Externo;3;4823;Sapindaceae;Cupania;Cupania oblongifolia;52;7,22;N;S;Secundária Inicial;;
+14/7/2020;7;6;Externo;3;4824;Sapindaceae;Cupania;Cupania oblongifolia;50;4,66;N;S;Secundária Inicial;;
+14/7/2020;7;6;Externo;4;4825;Rubiaceae;Coffea;Coffea arabica;20;2,11;N;N;Umbrófila;;
+14/7/2020;7;6;Externo;4;4826;Myrtaceae;Eugenia;Eugenia supraaxillaris;56;4,62;S;S;Secundária Inicial;;Confirmar
+14/7/2020;7;6;Externo;4;4827;Myrtaceae;Eugenia;Eugenia supraaxillaris;75;7,03;S;S;Secundária Inicial;idem 4826;
+14/7/2020;7;6;Externo;4;4828;Myrtaceae;Eugenia;Eugenia supraaxillaris;79;6,63;S;S;Secundária Inicial;idem 4826;
+14/7/2020;7;6;Externo;4;4829;Myrtaceae;Eugenia;Eugenia supraaxillaris;29;2,53;S;S;Secundária Inicial;idem 4826;
+14/7/2020;7;6;Externo;4;4830;Sapindaceae;Cupania;Cupania oblongifolia;20;2,87;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;1;4838;Sapindaceae;Cupania;Cupania oblongifolia;20;3,05;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;1;4839;Indeterminada 2;Indeterminada 2;Indeterminada 2;180;16,72;N;S;;idem 4788;Confirmar
+14/7/2020;8;6;Copa;1;4840;Myrtaceae;Myrciaria;Myrciaria floribunda;700;80;S;S;Secundária Tardia;;
+14/7/2020;8;6;Copa;2;4831;Sapindaceae;Cupania;Cupania oblongifolia;20;2,1;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;2;4832;Sapindaceae;Cupania;Cupania oblongifolia;50;2,16;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;2;4833;Sapindaceae;Cupania;Cupania oblongifolia;600;44,84;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;2;4834;Myrtaceae;Eugenia;Eugenia brasiliensis;49;10,75;S;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;2;4835;Sapindaceae;Cupania;Cupania oblongifolia;70;11,5;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;3;4837;Sapindaceae;Cupania;Cupania oblongifolia;21;3,93;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;3;4841;Sapindaceae;Cupania;Cupania oblongifolia;22;3,23;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;4;4842;Arecaceae;Euterpe;Euterpe edulis;27;4,48;N;S;Secundária Tardia;;
+14/7/2020;8;6;Copa;4;4843;Sapindaceae;Cupania;Cupania oblongifolia;400;22,61;N;S;Secundária Inicial;;
+14/7/2020;8;6;Copa;4;4844;Sapindaceae;Cupania;Cupania oblongifolia;98;14,35;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;1;4845;Sapindaceae;Cupania;Cupania oblongifolia;47;4,72;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;1;4846;Sapindaceae;Cupania;Cupania oblongifolia;49;4,62;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;1;4847;Sapindaceae;Cupania;Cupania oblongifolia;24;3,14;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4848;Pendente;Pendente;Pendente;39;3,85;S;;;idem 4834;
+14/7/2020;8;6;Externo;2;4849;Sapindaceae;Cupania;Cupania oblongifolia;54;5,6;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4850;Sapindaceae;Cupania;Cupania oblongifolia;28;3,3;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4851;Myrtaceae;Myrciaria;Myrciaria floribunda;51;4,93;S;S;Secundária Tardia;;
+14/7/2020;8;6;Externo;2;4852;Myrtaceae;Myrciaria;Myrciaria floribunda;23;2,05;S;S;Secundária Tardia;;
+14/7/2020;8;6;Externo;2;4853;Sapindaceae;Cupania;Cupania oblongifolia;93;4,05;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4854;Sapindaceae;Cupania;Cupania oblongifolia;250;23;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4855;Sapindaceae;Cupania;Cupania oblongifolia;50;4,9;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;2;4856;Sapindaceae;Cupania;Cupania oblongifolia;68;9,95;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;3;4857;Sapindaceae;Cupania;Cupania oblongifolia;20;3,5;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;3;4858;Pendente;Pendente;Pendente;60;6,11;S;;;;
+14/7/2020;8;6;Externo;3;4860;Indeterminada 2;Indeterminada 2;Indeterminada 2;94;17,01;S;S;;idem 4788;Confirmar
+14/7/2020;8;6;Externo;3;4861;Rubiaceae;Coffea;Coffea arabica;42;4,68;N;N;Umbrófila;;
+14/7/2020;8;6;Externo;3;4862;Rubiaceae;Coffea;Coffea arabica;23;2;N;N;Umbrófila;;
+14/7/2020;8;6;Externo;3;4863;Rubiaceae;Coffea;Coffea arabica;48;3;N;N;Umbrófila;;
+14/7/2020;8;6;Externo;3;4864;Rubiaceae;Coffea;Coffea arabica;28;2,25;N;N;Umbrófila;;
+14/7/2020;8;6;Externo;4;4865;Sapindaceae;Cupania;Cupania oblongifolia;79;7,79;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;4;4867;Sapindaceae;Cupania;Cupania oblongifolia;29;4,12;N;S;Secundária Inicial;;
+14/7/2020;8;6;Externo;4;4868;Sapindaceae;Cupania;Cupania oblongifolia;53;6,31;N;S;Secundária Inicial;;
+4/8/2020;9;6;Copa;1;4866;Arecaceae;Euterpe;Euterpe edulis;39;6,75;N;S;Secundária Tardia;;
+4/8/2020;9;6;Copa;1;4869;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;22;3,65;N;N;Não Classificada;;
+4/8/2020;9;6;Copa;2;4870;Sapindaceae;Cupania;Cupania oblongifolia;73;7,57;N;S;Secundária Inicial;;
+4/8/2020;9;6;Copa;2;4871;Sapindaceae;Cupania;Cupania oblongifolia;24;3,89;N;S;Secundária Inicial;;
+4/8/2020;9;6;Copa;3;4872;Pendente;Pendente;Pendente;300;35,54;S;;;;
+4/8/2020;9;6;Copa;3;4873;Sapindaceae;Cupania;Cupania oblongifolia;170;20,5;N;S;Secundária Inicial;;
+4/8/2020;9;6;Copa;4;4874;Sapindaceae;Cupania;Cupania oblongifolia;27;4,85;N;S;Secundária Inicial;;
+4/8/2020;9;6;Copa;4;4875;Sapindaceae;Cupania;Cupania oblongifolia;72;7,82;N;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;1;4876;Arecaceae;Euterpe;Euterpe edulis;43;6,4;N;S;Secundária Tardia;;
+4/8/2020;9;6;Externo;1;4878;Rubiaceae;Psychotria;Psychotria suterella;41;3,8;N;S;Umbrófila;;
+4/8/2020;9;6;Externo;1;4879;Pendente;Pendente;Pendente;29;6,15;S;;;;
+4/8/2020;9;6;Externo;2;4880;Arecaceae;Euterpe;Euterpe edulis;54;10,58;N;S;Secundária Tardia;;
+4/8/2020;9;6;Externo;2;4882;Pendente;Pendente;Pendente;50;9,77;N;;;;
+4/8/2020;9;6;Externo;2;4883;Arecaceae;Euterpe;Euterpe edulis;65;7,87;N;S;Secundária Tardia;;
+4/8/2020;9;6;Externo;2;4881;Arecaceae;Euterpe;Euterpe edulis;26;4,81;N;S;Secundária Tardia;;
+4/8/2020;9;6;Externo;2;4877;Arecaceae;Euterpe;Euterpe edulis;23;4,16;N;S;Secundária Tardia;;
+4/8/2020;9;6;Externo;2;4884;Pendente;Pendente;Pendente;28;3,37;S;;;amostra está sem numero;
+4/8/2020;9;6;Externo;3;4885;Sapindaceae;Cupania;Cupania oblongifolia;135;10,75;N;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;3;4886;Sapindaceae;Cupania;Cupania oblongifolia;39;4,82;N;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;3;4888;Sapindaceae;Cupania;Cupania oblongifolia;20;1,8;S;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;3;4887;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;26;1,4;N;N;Não Classificada;;
+4/8/2020;9;6;Externo;3;4889;Sapindaceae;Cupania;Cupania oblongifolia;250;16,45;N;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;3;4890;Sapindaceae;Cupania;Cupania oblongifolia;37;6,13;N;S;Secundária Inicial;;
+4/8/2020;9;6;Externo;4;NA;NA;NA;NA;NA;NA;NA;;;NA;NA
+4/8/2020;10;6;Externo;1;4898;Arecaceae;Euterpe;Euterpe edulis;125;25,06;N;S;Secundária Tardia;;
+4/8/2020;10;6;Externo;1;4892;Rubiaceae;Coffea;Coffea arabica;43;5,93;N;N;Umbrófila;;
+4/8/2020;10;6;Externo;1;4891;Pendente;Pendente;Pendente;87;12,34;S;;;;
+4/8/2020;10;6;Externo;2;4900;Sapindaceae;Cupania;Cupania oblongifolia;45;12,54;N;S;Secundária Inicial;;
+4/8/2020;10;6;Externo;2;4897;Rubiaceae;Psychotria;Psychotria suterella;150;40,79;N;S;Umbrófila;;
+4/8/2020;10;6;Externo;2;4896;Pendente;Pendente;Pendente;20;1,74;S;;;;
+4/8/2020;10;6;Externo;2;4893;Pendente;Pendente;Pendente;600;41,44;S;;;;
+4/8/2020;10;6;Externo;2;4899;Pendente;Pendente;Pendente;800;67,13;N;;;idem 4893;
+4/8/2020;10;6;Externo;3;4894;Pendente;Pendente;Pendente;20;2,94;S;;;;
+4/8/2020;10;6;Externo;3;4898;Sapindaceae;Cupania;Cupania oblongifolia;20;2,21;N;S;Secundária Inicial;;
+4/8/2020;10;6;Externo;3;4901;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;20;1,2;N;N;Não Classificada;;
+4/8/2020;10;6;Externo;4;4902;Rubiaceae;Coffea;Coffea arabica;100;9,52;N;N;Umbrófila;;
+4/8/2020;10;6;Externo;4;4903;Rubiaceae;Coffea;Coffea arabica;133;11,68;N;N;Umbrófila;;
+4/8/2020;10;6;Externo;4;4904;Rubiaceae;Coffea;Coffea arabica;55;5,41;N;N;Umbrófila;;
+4/8/2020;10;6;Copa;1;NA;NA;NA;NA;NA;NA;NA;;;NA;NA
+4/8/2020;10;6;Copa;2;4905;Sapindaceae;Cupania;Cupania oblongifolia;20;4,75;N;S;Secundária Inicial;;
+4/8/2020;10;6;Copa;3;4907;Sapindaceae;Cupania;Cupania oblongifolia;38;4,23;N;S;Secundária Inicial;;
+4/8/2020;10;6;Copa;3;4908;Arecaceae;Euterpe;Euterpe edulis;22;4,01;N;S;Secundária Tardia;;
+4/8/2020;10;6;Copa;3;4909;Rutaceae;Citrus;Citrus sp;55;7,64;N;NA;Não Classificada;;
+4/8/2020;10;6;Copa;3;4910;Rubiaceae;Coffea;Coffea arabica;75;4,75;N;N;Umbrófila;;
+4/8/2020;10;6;Copa;4;4911;Rubiaceae;Coffea;Coffea arabica;70;6,58;N;N;Umbrófila;;
