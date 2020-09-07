@@ -1,3 +1,9 @@
 Análise dos dados sobre a regeneração florestal sob as copas e no entorno de palmeiras-leque-da-China (Livistona chinensis) na trilha da Figueira do núcleo Pedra Grande do Parque Estadual da Cantareira.
-O estudo considerou duas classes de altura para a palmeira: 3m e 6m.
+O estudo considerou duas classes de altura para a palmeira: 3m e 6m e para cada uma delas foi comparada a regeneração no entorno e sob as copas.
+Arquivos da análise:
+- dados_3m: dados brutos das palmeiras de 3m
+- dados_6m: dados brutos das palmeiras de 6m
+- analise_palm_3m: gráficos da análise dos dados das palmeiras de 3m
+- analise_palm_6m: gráficos da análise dos dados das palmeiras de 6m
+- u_test_mann_whitney: testes estatísticos de significância e normalidade
 
