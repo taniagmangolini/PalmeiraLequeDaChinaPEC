@@ -18,7 +18,7 @@ Data;Palmeira;Altura Palmeira (m);Área;Quadrante;Número;Família;Gênero;Espé
 7/2/2020;6;6;Externo;3;4782;Arecaceae;Archontophoenix;Archontophoenix cunninghamiana;24;4,06;N;Não Classificada;;;;;;;;;;;;;;;;;;;;;;
 7/2/2020;6;6;Externo;3;4783;Arecaceae;Euterpe;Euterpe edulis;150;28,4;S;Secundária Tardia;;;;;;;;;;;;;;;;;;;;;;
 7/2/2020;6;6;Externo;3;4785;Arecaceae;Euterpe;Euterpe edulis;33;6,58;S;Secundária Tardia;;;;;;;;;;;;;;;;;;;;;;
-7/2/2020;6;6;Externo;4;4786;Elaeocarpaceae ;Sloanea;Sloanea hirsuta;100;10,56;S;Secundária Tardia;"BARRETTO, E.H.P; CATHARINO, E.L.M.";;;;;;;;;;;;;;;;;;;;;
+7/2/2020;6;6;Externo;4;4786;Elaeocarpaceae ;Sloanea;Sloanea hirsuta;100;10,56;S;Umbrófila;"BARRETTO, E.H.P; CATHARINO, E.L.M.";;;;;;;;;;;;;;;;;;;;;
 7/2/2020;6;6;Externo;4;4787;Sapindaceae ;Allophylus ;Allophylus edulis;26;3,3;S;Secundária Inicial;idem 4788;;;;;;;;;;;;;;;;;;;;;
 7/2/2020;6;6;Externo;4;4788;Sapindaceae ;Allophylus ;Allophylus edulis;25;2,23;S;Secundária Inicial;;;;;;;;;;;;;;;;;;;;;;
 7/2/2020;6;6;Externo;4;4789;Sapindaceae;Allophylus ;Allophylus edulis;20;2,12;S;Secundária Inicial;idem 4774;;;;;;;;;;;;;;;;;;;;;
@@ -134,7 +134,7 @@ Data;Palmeira;Altura Palmeira (m);Área;Quadrante;Número;Família;Gênero;Espé
 4/8/2020;10;6;Copa;2;4905;Sapindaceae;Cupania;Cupania oblongifolia;20;4,75;S;Secundária Inicial;;;;;;;;;;;;;;;;;;;;;;
 4/8/2020;10;6;Copa;3;4907;Sapindaceae;Cupania;Cupania oblongifolia;38;4,23;S;Secundária Inicial;;;;;;;;;;;;;;;;;;;;;;
 4/8/2020;10;6;Copa;3;4908;Arecaceae;Euterpe;Euterpe edulis;22;4,01;S;Secundária Tardia;;;;;;;;;;;;;;;;;;;;;;
-4/8/2020;10;6;Copa;3;4909;Rutaceae;Citrus;Citrus sp;55;7,64;NA;Não Classificada;;;;;;;;;;;;;;;;;;;;;;
+4/8/2020;10;6;Copa;3;4909;Rutaceae;Citrus;Citrus sp;55;7,64;N;Não Classificada;;;;;;;;;;;;;;;;;;;;;;
 4/8/2020;10;6;Copa;3;4910;Rubiaceae;Coffea;Coffea arabica;75;4,75;N;Umbrófila;;;;;;;;;;;;;;;;;;;;;;
 4/8/2020;10;6;Copa;4;4911;Rubiaceae;Coffea;Coffea arabica;70;6,58;N;Umbrófila;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
